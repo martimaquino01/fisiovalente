@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 84" role="img" aria-label="Fisio Valente — Centro Terapêutico">
+  <title>Fisio Valente</title>
+  <!-- PLACEHOLDER LOGO — substituir pelo logótipo original do cliente (mesmo nome de ficheiro). -->
+  <defs>
+    <linearGradient id="lgMark" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#17A0AE"/>
+      <stop offset="1" stop-color="#0B4F5C"/>
+    </linearGradient>
+  </defs>
+  <g>
+    <rect x="2" y="10" width="64" height="64" rx="20" fill="url(#lgMark)"/>
+    <path d="M18 54c8 0 10-24 16-24s8 24 16 24" fill="none" stroke="#fff" stroke-width="5" stroke-linecap="round"/>
+    <circle cx="34" cy="26" r="4.5" fill="#E9B155"/>
+  </g>
+  <g fill="#0B3946">
+    <text x="82" y="43" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-weight="700" letter-spacing="0.5">Fisio<tspan fill="#128C99"> Valente</tspan></text>
+    <text x="84" y="63" font-family="Helvetica, Arial, sans-serif" font-size="12" letter-spacing="4.4" fill="#5B7480">CENTRO TERAPÊUTICO</text>
+  </g>
+</svg>
